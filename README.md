@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @allench28
+- 👨‍💻 Im currently working as a Solutions Architect.
 - 👀 I’m interested in python and cloud computing.
 - 🌱 I’m currently learning AWS cloud and python.
 - 💞️ I’m looking to collaborate on any project that could gain experience.
